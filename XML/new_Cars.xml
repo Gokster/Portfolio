@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car name="Volvo XC60">
+    <cylinders>4</cylinders>
+    <country>Sweden</country>
+  </car>
+  <car name="BMW 320i">
+    <cylinders>4</cylinders>
+    <country>Germany</country>
+  </car>
+  <car name="Chevrolet Camaro">
+    <cylinders>8</cylinders>
+    <country>USA</country>
+  </car>
+  <car name="Toyota Corolla">
+    <cylinders>4</cylinders>
+    <country>Japan</country>
+  </car>
+  <car name="Mercedes-Benz E-Class">
+    <cylinders>6</cylinders>
+    <country>Germany</country>
+  </car>
+  <car name="Lamborghini Gallardo">
+    <cylinders>10</cylinders>
+    <country>Italy</country>
+  </car>
+</cars>
